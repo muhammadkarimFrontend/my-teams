@@ -1,1 +1,1 @@
-# my-teams
+# my-team
